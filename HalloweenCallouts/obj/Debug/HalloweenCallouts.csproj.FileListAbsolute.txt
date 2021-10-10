@@ -1,0 +1,11 @@
+C:\Users\steph\Desktop\Source\YouTubeLoadout\HalloweenCallouts\HalloweenCallouts\bin\Debug\HalloweenCallouts.net.dll
+C:\Users\steph\Desktop\Source\YouTubeLoadout\HalloweenCallouts\HalloweenCallouts\bin\Debug\HalloweenCallouts.net.pdb
+C:\Users\steph\Desktop\Source\YouTubeLoadout\HalloweenCallouts\HalloweenCallouts\bin\Debug\CitizenFX.Core.Client.dll
+C:\Users\steph\Desktop\Source\YouTubeLoadout\HalloweenCallouts\HalloweenCallouts\bin\Debug\FivePD.net.dll
+C:\Users\steph\Desktop\Source\YouTubeLoadout\HalloweenCallouts\HalloweenCallouts\bin\Debug\CitizenFX.Core.Client.xml
+C:\Users\steph\Desktop\Source\YouTubeLoadout\HalloweenCallouts\HalloweenCallouts\bin\Debug\FivePD.net.xml
+C:\Users\steph\Desktop\Source\YouTubeLoadout\HalloweenCallouts\HalloweenCallouts\obj\Debug\HalloweenCallouts.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\Source\YouTubeLoadout\HalloweenCallouts\HalloweenCallouts\obj\Debug\HalloweenCallouts.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\Source\YouTubeLoadout\HalloweenCallouts\HalloweenCallouts\obj\Debug\HalloweenCallouts.csproj.CopyComplete
+C:\Users\steph\Desktop\Source\YouTubeLoadout\HalloweenCallouts\HalloweenCallouts\obj\Debug\HalloweenCallouts.net.dll
+C:\Users\steph\Desktop\Source\YouTubeLoadout\HalloweenCallouts\HalloweenCallouts\obj\Debug\HalloweenCallouts.net.pdb
